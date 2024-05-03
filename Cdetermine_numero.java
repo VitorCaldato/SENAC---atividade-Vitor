@@ -8,13 +8,14 @@ public class Cdetermine_numero {
             scan=num;
             if{ 
                 num % 2;
-        Scanner.Scan ("Este número é positivo" );
+        Scanner.out.printl ("Este número é positivo" );
                 }
         if {
             num == 0 ;
-            Scanner.scan (" Este numero é zero" )
-                {
-    if {
-        
+            Scanner.out.println (" Este numero é zero" );
+                }
+    else {
+                Scanner.out.println (" Este número é negativo);
+        {
             }
 }
